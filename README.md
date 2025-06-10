@@ -2,10 +2,10 @@
 ## **I am Ezekiel Arkoh Amissah**
 **a web 🕸 developer.** 
 - 🌱 I’m currently learning **React, React Native and TypeScript**.
-- 🧑🏾‍💻 I’m interested in creating solutions to problems and addressing societal needs with regards to tech.
+- 👨🏾‍💻 I’m interested in creating solutions to problems and addressing societal needs with regards to tech.
 - 👀 I look forward to working with and learning from developers and contributing to open-source projects.
 - 📫 Reach me via email: **ezekielarkohamissah@gmail.com** 
-- 🧑🏾 Pronouns: He/Him
+- 👨🏾 Pronouns: He/Him
 - 🌎 I live in Ghana.
 
 <!---
